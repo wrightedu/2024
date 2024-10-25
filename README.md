@@ -1,6 +1,6 @@
 # 2024 ACM Programming Contest
 
-Welcome!
+Welcome!  Access to this repository is allowed in the first few minutes of the competition but after that please ***NO USE OF A WEB BROWSER!***
 
 Please pay attention to PC^2 and verbal announcements for clarifications on rules and problems!
 
